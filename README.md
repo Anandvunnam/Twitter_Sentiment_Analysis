@@ -54,7 +54,6 @@ Follow these steps to create and activate a virtual environment using `pip`:
    pip install -r requirements.txt
    ```
 
-   Replace `<package1>`, `<package2>`, etc., with the names of the required packages for your project.
 
 7. **Deactivate the Virtual Environment**: To exit the virtual environment, run the following command:
 
